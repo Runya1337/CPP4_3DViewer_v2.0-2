@@ -1,0 +1,16 @@
+Hostname = andermesnameserver
+Time zone = Etc/UTC (UTC, +0000) 
+User = andermes_name
+OS = Ubuntu 22.04.3 LTS
+Date = Wed Dec 13 07:40:25 AM UTC 2023
+Uptime = up 27 minutes
+Uptime Sec = 1670.65
+IP = 10.0.2.15 
+Mask = 255.255.255.0
+Gateway = 10.0.2.2
+Ram total = 3.820 GB
+Ram used = 0.311 GB
+Ram free = 2.893 GB
+Space root = 8211.38 MB
+Space root used = 8211.38 MB
+Space root free = 8211.38 MB
